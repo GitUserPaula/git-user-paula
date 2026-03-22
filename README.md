@@ -1,12 +1,14 @@
 # Hi there! 👋 I'm Pau
 
-QA Automation Engineer passionate about building reliable, AI-powered testing solutions.
+### Senior Quality Engineer | AI-Augmented Testing Specialist 🚀 
+With **11 years of experience** in software quality, I specialize in the intersection of **Quality Engineering and Generative AI**. I advocate for "Quality as a Strategy," focusing on Shift-Left testing and building intelligent tools to accelerate delivery
 
 ### 🔧 Tech Stack
-- **AI in QA**: LangChain, Gemini, Streamlit, Grok
-- **UI Automation**: Cypress, Playwright
-- **Languages**: Python, JavaScript
-- **Other**: Pytest, Requests, SQLite, GitHub Actions
+
+* * **AI/ML:** Google Gemini, RAG Architecture, Prompt Engineering
+* **Automation**: Cypress, Playwright
+* **Languages**: Python, JavaScript
+* **CI/CD:** GitHub Actions, Jenkins
 
 ### 📊 Featured Projects
 - **[Aurora Quality Hub](https://github.com/GitUserPaula/aurora-quality-hub)** – AI-powered tool for generating professional bug reports and test cases
