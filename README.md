@@ -8,7 +8,7 @@ With **10+ years of experience** in software quality, I specialize in the inters
 * **AI/ML:** Google Gemini, RAG Architecture, Prompt Engineering
 * **Automation**: Cypress, Playwright
 * **Languages**: Python, JavaScript
-* **CI/CD:** GitHub Actions, Jenkins
+* **CI/CD:** GitHub Actions. Compatible with other enterprise orchestrators like Azure DevOps and Jenkins
 
 ### 📊 Featured Projects
 - **[Aurora Engineer Suite](https://github.com/GitUserPaula/aurora-quality-hub)** – AI-powered platform designed to unify QA strategy, reporting, and AI-augmented testing workflows
